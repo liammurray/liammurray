@@ -4,14 +4,26 @@
 
 - Everything AWS
  
-  - Over 5 years experience with all kinds of AWS services (serveless/container)
-  - Including: containers/serverless, API Gateway, ECS, EKS, EC2/VPC, DevOps (GitHub, CDK, Terraform, Serverless, SAM, etc.)
+  - Over 6 years experience with all kinds of AWS services 
+  - Including: 
+    - Containers/serverless (docker, lambda)
+    - API Gateway
+    - X-Ray instrumentation
+    - SSM automation
+    - ECS
+    - Mongo, ElasticSearch, Redis/ElastiCache
+    - EC2/VPC, Transit Gateway, ALB/NLB
+    - DevOps (GitHub, CDK, Terraform, Serverless, SAM, etc.)
+    - EKS/Kubernetes (Current focus)
+    - A bunch of other stuff (DMS, Athena, RDS, DynamoDb, Amplify, etc.)
 
-- Typescript/Node.js (Express, NestJS, React, etc.)
+- Typescript/Node.js (Express, NestJS, React, Nx workspaces, etc.)
+
+- Python
 
 - Guitarbuilding 
   
-  In process of completing a flamenco negra based in part on a Marcelo Barbero guitar (a famous builder from Madrid).
+  Just completed a flamenco negra based in part on a Marcelo Barbero guitar (a famous builder from Madrid). Now working on a blanca (cypress side/back instead of Indian Rosewood).
   
   Attendended guitar building courses with Sergei de Jonge (Toronto, 2000) and Stephen Hill (La Herradura, Spain, 2012)
  
@@ -23,10 +35,15 @@
 
   Spanish
 
-🌱 I’m currently learning ...
+🌱 My current work focus ...
 
- - Everything EKS, Kubernetes
- - GitOps with ArgoCD 
+  - Everything Kubernetes (EKS), including:
+    - GitOps with ArgoCD 
+    - OpenTelemetry (AWS OpenTelemetry Collector) for tracing and Prometheus metrics
+    - Temporal workflow (I love durable functions, workflow as code)
+    - Crossplane/Cluster API (Deploying AWS infra with Kubernetes API instead of CDK/Terraform, etc.)
+    - Service Mesh (AppMesh, LinkerD), progressive delivery (Flux, etc.)
+    - Bottlerocket
 
 
 📫 How to reach me ...
