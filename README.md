@@ -15,7 +15,7 @@
     - EC2/VPC, Transit Gateway, ALB/NLB
     - DevOps (GitHub, CDK, Terraform, Serverless, SAM, etc.)
     - EKS/Kubernetes (Current focus)
-    - A bunch of other stuff (DMS, Athena, RDS, Elastic Transcoder, DynamoDb, Cognito, Amplify, etc.)
+    - A bunch of other stuff (DMS, Athena, RDS, Elastic Transcoder, SQS, EventBridge, DynamoDb, Cognito, Amplify, etc.)
 
 - Typescript/Node.js (Express, NestJS, React, Nx workspaces, etc.)
 
