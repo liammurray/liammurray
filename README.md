@@ -7,15 +7,15 @@
   - Over 6 years experience with all kinds of AWS services 
   - Including: 
     - Containers/serverless (docker, lambda)
-    - API Gateway
+    - API Gateway (public,private,rest/http)
     - X-Ray instrumentation
     - SSM automation
-    - ECS
+    - ECS (EC2/Fargate)
     - Mongo, ElasticSearch, Redis/ElastiCache
     - EC2/VPC, Transit Gateway, ALB/NLB
     - DevOps (GitHub, CDK, Terraform, Serverless, SAM, etc.)
     - EKS/Kubernetes (Current focus)
-    - A bunch of other stuff (DMS, Athena, RDS, DynamoDb, Amplify, etc.)
+    - A bunch of other stuff (DMS, Athena, RDS, DynamoDb, Cognito, Amplify, etc.)
 
 - Typescript/Node.js (Express, NestJS, React, Nx workspaces, etc.)
 
