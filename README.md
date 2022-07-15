@@ -16,8 +16,8 @@
     - DevOps (GitHub, CDK, Terraform, Serverless, SAM, etc.)
     - EKS/Kubernetes (Current focus)
     - A bunch of other stuff (DMS, Athena, RDS, Elastic Transcoder, SQS, EventBridge, DynamoDb, Cognito, Amplify, etc.)
-
-- Typescript/Node.js (Express, NestJS, React, Nx workspaces, etc.)
+ 
+- Typescript/Node.js (Express, NestJS, React, NWRL Nx workspaces, etc.)
 
 - Python
 
@@ -39,8 +39,8 @@
 
   - Everything Kubernetes (EKS), including:
     - GitOps with ArgoCD 
-    - OpenTelemetry (AWS OpenTelemetry Collector) for tracing and Prometheus metrics
-    - Temporal workflow (I love durable functions, workflow as code)
+    - OpenTelemetry (AWS OpenTelemetry Collector) for tracing and Prometheus metrics (kube-prometheus-stack)
+    - Temporal workflow (durable functions, workflow as code)
     - Crossplane/Cluster API (Deploying AWS infra with Kubernetes API instead of CDK/Terraform, etc.)
     - Service Mesh (AppMesh, LinkerD), progressive delivery (Flux, etc.)
     - Bottlerocket
