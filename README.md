@@ -4,7 +4,7 @@
 
 - Everything AWS
  
-  - Over 6 years experience with all kinds of AWS services 
+  - Over 6 years experience with all kinds of AWS services (on top of 27 years industry experience) 
   - Including: 
     - Containers/serverless (docker, lambda)
     - API Gateway (public,private,rest/http)
@@ -45,6 +45,9 @@
     - Service Mesh (AppMesh, LinkerD), progressive delivery (Flux, etc.)
     - Bottlerocket
 
+🌱 Past work focus ...
+
+- Extensive work around C++, Java, Symbian, Android
 
 📫 How to reach me ...
 
