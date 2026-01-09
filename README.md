@@ -2,18 +2,18 @@
 
 👀 I’m interested in ...
 
-- Everything AWS
+- Everything AWS and Kubernetes+GitOps
  
-  - Over 6 years experience with all kinds of AWS services (on top of 27 years industry experience) 
+  - Many years experience (since 2016) with all kinds of AWS services (on top of 27 years industry experience) 
   - Including: 
-    - Containers/serverless (docker, lambda)
+    - Kubernetes/containers/serverless
     - API Gateway (public,private,rest/http)
     - X-Ray instrumentation
     - SSM automation
     - ECS (EC2/Fargate)
     - Mongo, ElasticSearch, Redis/ElastiCache
-    - EC2/VPC, Transit Gateway, ALB/NLB
-    - DevOps (GitHub, CDK, Terraform, Serverless, SAM, etc.)
+    - EC2/VPC, Transit Gateway, ALB/NLB, VPN
+    - DevOps (GitHub, CDK, Terraform, Serverless, SAM, ArgoCD, etc.)
     - EKS/Kubernetes (Current focus)
     - A bunch of other stuff (DMS, Athena, RDS, Elastic Transcoder, SQS, EventBridge, DynamoDb, Cognito, Amplify, etc.)
  
@@ -37,15 +37,18 @@
 
 🌱 My current work focus ...
 
-  - Everything Kubernetes (EKS), including:
+- Semi-retired working on personal projects using Claude + Antigravity
+- Completely abandoning old paradigms, modes of thinking and adapting by retooling for AI revolution transition
+
+🌱 Past work focus ...
+
+ - Everything Kubernetes (EKS), including:
     - GitOps with ArgoCD 
     - OpenTelemetry (AWS OpenTelemetry Collector) for tracing and Prometheus metrics (kube-prometheus-stack)
     - Temporal workflow (durable functions, workflow as code)
     - Crossplane/Cluster API (Deploying AWS infra with Kubernetes API instead of CDK/Terraform, etc.)
     - Service Mesh (AppMesh, LinkerD), progressive delivery (Flux, etc.)
     - Bottlerocket
-
-🌱 Past work focus ...
 
 - Extensive work around C++, Java, Symbian, Android
 
