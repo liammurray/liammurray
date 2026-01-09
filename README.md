@@ -2,6 +2,8 @@
 
 👀 I’m interested in ...
 
+- AI tools such as Claude for 100x productivity
+  
 - Everything AWS and Kubernetes+GitOps
  
   - Many years experience (since 2016) with all kinds of AWS services (on top of 27 years industry experience) 
