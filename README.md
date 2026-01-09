@@ -43,12 +43,16 @@
 🌱 Past work focus ...
 
  - Everything Kubernetes (EKS), including:
-    - GitOps with ArgoCD 
-    - OpenTelemetry (AWS OpenTelemetry Collector) for tracing and Prometheus metrics (kube-prometheus-stack)
+    - GitOps with ArgoCD
+    - Cluster upgrade and maintenance
+    - Security via Kyverno, Bottlerocket, etc.
+    - Observability with Prometheus+Grafana+Loki, OpenTelemetry tracing
     - Temporal workflow (durable functions, workflow as code)
     - Crossplane/Cluster API (Deploying AWS infra with Kubernetes API instead of CDK/Terraform, etc.)
     - Service Mesh (AppMesh, LinkerD), progressive delivery (Flux, etc.)
-    - Bottlerocket
+    - Load balancers and Ambassador API Gateway
+    - VCluster for dev environments
+    - etc.
 
 - Extensive work around C++, Java, Symbian, Android
 
