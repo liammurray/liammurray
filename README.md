@@ -2,7 +2,7 @@
 
 👀 I’m interested in ...
 
-- AI tools such as Claude for 100x productivity
+- AI enabled coding and productivity using tools such as Claude and Antigragity
   
 - Everything AWS and Kubernetes+GitOps
  
@@ -40,11 +40,10 @@
 🌱 My current work focus ...
 
 - Semi-retired working on personal projects using Claude + Antigravity
-- Completely abandoning old paradigms, modes of thinking and adapting by retooling for AI revolution transition
 
 🌱 Past work focus ...
 
- - Everything Kubernetes (EKS), including:
+ - Kubernetes+AWS (EKS), including:
     - GitOps with ArgoCD
     - Cluster upgrade and maintenance
     - Security via Kyverno, Bottlerocket, etc.
@@ -56,7 +55,7 @@
     - VCluster for dev environments
     - etc.
 
-- Extensive work around C++, Java, Symbian, Android
+- Many years in earlier part of career using C++, Java, Symbian, Android
 
 <!---
 liammurray/liammurray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
