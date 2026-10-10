@@ -4,7 +4,7 @@
 
 - AI enabled coding and productivity primarily using Claude Code
 
-  I started with a two week experiment and it turned into an every-day obsession since 2/2026. Now Anthropic, Vercel, GitHub, Cartesia, OpenAI and Google, some YouTube transcription service etc. are all billing me. Soon Musixmatch and a few others will be charging me. My goal is to get 10 paying users. :)
+  I started with a two week experiment and it turned into an every-day obsession since 2/2026. Now Anthropic, Vercel, GitHub, Cartesia, OpenAI and Google, some YouTube transcription service etc. are all billing me. Soon Musixmatch and a few others will be charging me. I have 800 open issues on my repo as I write this (Oct/2026). My goal is to get 10 paying users. :)
   
 - Everything AWS and Kubernetes+GitOps
  
