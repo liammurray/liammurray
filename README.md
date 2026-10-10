@@ -2,7 +2,9 @@
 
 👀 I’m interested in ...
 
-- AI enabled coding and productivity using tools such as Claude and Antigragity
+- AI enabled coding and productivity primarily using Claude Code
+
+  I started with a two week experiment and it turned into an every-day obsession since 2/2026. Now Anthropic, Vercel, GitHub, Cartesia, OpenAI and Google, some YouTube transcription service etc. are all billing me. Soon Musixmatch and a few others will be charging me. My goal is to get 10 paying users. :)
   
 - Everything AWS and Kubernetes+GitOps
  
@@ -39,7 +41,7 @@
 
 🌱 My current work focus ...
 
-- Semi-retired working on personal projects using Claude + Antigravity
+- Semi-retired currently building a language learning app for intermediate to advanced learners
 
 🌱 Past work focus ...
 
